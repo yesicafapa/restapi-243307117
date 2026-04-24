@@ -1,8 +1,8 @@
 # Tugas Praktikum REST API - CRUD Karyawan
 
-**Nama:** Yesica Frestysia Anisa Putri Arthaza
-**NIM:** 243307117
-**Kelas/Prodi:** 4D / Teknologi Informasi
+**Nama:** Yesica Frestysia Anisa Putri Arthaza <br>
+**NIM:** 243307117 <br>
+**Kelas/Prodi:** 4D / Teknologi Informasi <br>
 **Dosen:** Angger Binuko Paksi, M.Kom.
 
 ## Screenshot Hasil Praktikum 
